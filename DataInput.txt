@@ -1,0 +1,6 @@
+Name: Simon Smith
+Age: 22
+Birthdate: April 25, 2000
+Address: England
+Hobbies: Playing Video Games
+22-02-12 19:07:42
